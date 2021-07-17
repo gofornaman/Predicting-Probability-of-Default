@@ -1,2 +1,2 @@
 # Predicting-Probability-of-Default
-Building statistical credit risk modeling, probability of default prediction, and credit scorecard.
+Building statistical credit risk model, probability of default prediction, and credit scorecard.
